@@ -29,5 +29,6 @@ extension Array {
             array.append(self[Int(ceil(Float(i) * increment))])
         }
         return array
+Exit 0
     }
 }
